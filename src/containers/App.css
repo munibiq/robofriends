@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Dimensional Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Dimensional Regular'), url('../components/DimensionalRegular2.woff') format('woff');
+    }
+
+h1 {
+    font-family: 'Dimensional Regular';
+    color: rgb(214, 249, 235);
+    font-weight: 600;
+    font-size: xx-large;
+}
